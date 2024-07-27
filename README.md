@@ -3,7 +3,7 @@
 
 ## Transaction Link
 
-Success! Check out your TX here:[ https://explorer.solana.com/tx/YOUR_TRANSACTION_HASH?cluster=devnet](https://explorer.solana.com/tx/4ksfxdTkmZjKQs8XyRKhGQ4E5RLyrzLosBKvLbNR8hw1sFSuphstVzQ2sDU5bCZVX23HiXzZAjGzDHRHkHSRHDrW?cluster=devnet)
+Success! Check out your TX here:[here](https://explorer.solana.com/tx/4ksfxdTkmZjKQs8XyRKhGQ4E5RLyrzLosBKvLbNR8hw1sFSuphstVzQ2sDU5bCZVX23HiXzZAjGzDHRHkHSRHDrW?cluster=devnet)
 
 ## Project Overview
 
