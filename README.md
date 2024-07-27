@@ -1,5 +1,10 @@
 # Solana Keypair, Airdrop, Transfer, and Program Interaction Project
 
+
+## Transaction Link
+
+Success! Check out your TX here:[ https://explorer.solana.com/tx/YOUR_TRANSACTION_HASH?cluster=devnet](https://explorer.solana.com/tx/4ksfxdTkmZjKQs8XyRKhGQ4E5RLyrzLosBKvLbNR8hw1sFSuphstVzQ2sDU5bCZVX23HiXzZAjGzDHRHkHSRHDrW?cluster=devnet)
+
 ## Project Overview
 
 This project involves creating and interacting with Solana wallets using TypeScript. It includes scripts to:
@@ -124,11 +129,7 @@ yarn enroll
 Keeping Your Wallet Secure
 
 Ensure you keep the secret key of the Devnet wallet safe to access this wallet in the future.
-Transaction Link
-```
-Success! Check out your transaction here: Transaction Explorer
-```
 
 
-Bu README dosyası, projenizin genel yapısını ve nasıl çalıştırılacağını açıkça belirtir. `YOUR_TRANSACTION_HASH` kısmını kendi işlem hash'inizle değiştirmeyi unutmayın!
+
 
